@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Qulator</string>
+    <string name="qulator_label">Qulator</string>
+    <string name="angka_label">Number</string>
+</resources>
